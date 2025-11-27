@@ -21,5 +21,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sirojuz&show_icons=true&locale=en" alt="sirojuz" /></p>
 
-<p><img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirojuz&show_icons=true&locale=en&layout=compact" alt="sirojuz" /></p>
 
